@@ -1,0 +1,19 @@
+.update svg {
+  background-color: green;
+  color: white;
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 5px;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.delete svg {
+  background-color: red;
+  color: white;
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: 5px;
+  font-size: 30px;
+  font-weight: 700;
+}
